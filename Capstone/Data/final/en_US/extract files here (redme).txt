@@ -1,0 +1,7 @@
+extract:
+
+en_US.blogs.txt
+en_US.news.txt
+en_US.twitter.txt
+
+in this folder

@@ -1,0 +1,32 @@
+---
+output: html_document
+---
+
+This is a -simple program that you can write a phrase and the software will search into a database for the next most common word for that phrase.  
+
+You can write sentence with punctuations and in different lines. However, it will interpret as a full word without these characters.    
+
+The prediction function is based on a few steps. First the software recognize which is the first letter in the word to be searched for. Afterwards, it recognizes if it is a 3-gram, 4-gram or a 5-gram search by the number of words present in the phrase. Then it loads the right n-gram that represent that exact first letter.  
+Afterwards the search for similar words occurs in 3 major steps:  
+ 
+
+1.    If you have written 2 words, the software will search in a database composed by 3-grams.  
+2.    If you have written 3 words, the software will search in a database composed by 4-grams, if there is less than 3 words for the prediction, the software will transform to a 2 word phrase and execute step 1.  
+3.    If you have written 4 words or more, the software will select the last 4 words and search in a database composed by 5-grams, if there is less than 3 words for the prediction, the software will transform to a 3 word phrase and execute step 2.    
+
+Therefore, searches with 4 words or more are slower than the others; however, its accuracy also increase.  In each of these last 3 steps, if any of the returned word is a swearword present in the “swearword dictionary” the function will remove this curse word as one possible next word prediction. Furthermore, if the new search result has any repeated word, these words are automatically removed from the prediction and a new step is followed until it completes the minimal 3 word necessary. If the function ends, and the minimal 3 words is not found, it returns the amount of words that were found ultil that last step.  
+
+Each n-gram search, besides searching for the exact word, also tries to find similar words within the database. This search consist by three steps:    
+
+
+1.    If the desired sequence is not found, last written word is divided in half, and a similar word with the first half characters is used for the search.  
+2.    If the desired sequence is not found, last written word is divided in half, and a similar word with the second half characters is used for the search.  
+3.    If the desired sequence is not found, the software picks only the last 3 characters and search for all database with the same last characters.    
+
+If none of these conditions is meet for each of the n-grams searches, the software will return:  
+
+    "Sorry no prediction for your word".    
+
+
+I haven't found any types of bugs that will stop and return an error. However, if you find anything please send an email to rodrigodealexandre@hotmail.com writing what sentence gave an error.    
+
