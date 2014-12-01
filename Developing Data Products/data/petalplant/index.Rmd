@@ -1,0 +1,56 @@
+---
+title       : Different Sepal sizes
+subtitle    : Species have different sepal sizes
+author      : Rodrigo Bertollo de Alexandre
+job         : Learner
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Course Project: Shiny Application and Reproducible Pitch
+
+Different Species have different sepal sizes, and they seem to have a linear pattern between them.
+if you load the iris dataset
+
+```{r}
+data(iris)
+irisdataset <- iris
+```
+
+---
+## Plot 1
+### A plot of the Specie Virginica
+```{r, fig.height= 5, fig.width= 12}
+plant <- "virginica"
+data <- subset(irisdataset, iris$Species == plant)   
+ 
+plot(data$Sepal.Length, data$Sepal.Width, main = "A plot of the Sepal size", xlab = "Sepal Length", ylab = "Sepal Width",  xaxt="n")
+```
+
+---
+## Plot 2
+### A plot of the Specie Versicolor
+```{r, fig.height= 5, fig.width= 12}
+plant <- "versicolor"
+data <- subset(irisdataset, iris$Species == plant)   
+
+plot(data$Sepal.Length, data$Sepal.Width, main = "A plot of the Sepal size", xlab = "Sepal Length", ylab = "Sepal Width",  xaxt="n")
+```
+
+
+---
+## Plot 3
+### A plot of the Specie Setosa
+```{r, fig.height= 5, fig.width= 12}
+plant <- "setosa"
+data <- subset(irisdataset, iris$Species == plant)   
+
+plot(data$Sepal.Length, data$Sepal.Width, main = "A plot of the Sepal size", xlab = "Sepal Length", ylab = "Sepal Width",  xaxt="n")
+```
+
+
+

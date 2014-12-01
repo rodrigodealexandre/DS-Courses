@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Different Sepal sizes</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Different Sepal sizes">
+  <meta name="author" content="Rodrigo Bertollo de Alexandre">
+  <meta name="generator" content="slidify" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/default.css" media="all" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/phone.css" 
+    media="only screen and (max-device-width: 480px)" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/slidify.css" >
+  <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/tomorrow.css" />
+  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="./assets/css/ribbons.css"></link>
+
+  
+  <!-- Grab CDN jQuery, fall back to local if offline -->
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+  <script>window.jQuery || document.write('<script src="libraries/widgets/quiz/js/jquery.js"><\/script>')</script> 
+  <script data-main="libraries/frameworks/io2012/js/slides" 
+    src="libraries/frameworks/io2012/js/require-1.0.8.min.js">
+  </script>
+  
+  
+
+</head>
+<body style="opacity: 0">
+  <slides class="layout-widescreen">
+    
+    <!-- LOGO SLIDE -->
+        <slide class="title-slide segue nobackground">
+  <hgroup class="auto-fadein">
+    <h1>Different Sepal sizes</h1>
+    <h2>Species have different sepal sizes</h2>
+    <p>Rodrigo Bertollo de Alexandre<br/>Learner</p>
+  </hgroup>
+  <article></article>  
+</slide>
+    
+
+    <!-- SLIDES -->
+    <slide class="" id="slide-1" style="background:;">
+  <hgroup>
+    <h2>Course Project: Shiny Application and Reproducible Pitch</h2>
+  </hgroup>
+  <article data-timings="">
+    <p>Different Species have different sepal sizes, and they seem to have a linear pattern between them.
+if you load the iris dataset</p>
+
+<pre><code class="r">data(iris)
+irisdataset &lt;- iris
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-2" style="background:;">
+  <hgroup>
+    <h2>Plot 1</h2>
+  </hgroup>
+  <article data-timings="">
+    <h3>A plot of the Specie Virginica</h3>
+
+<pre><code class="r">plant &lt;- &quot;virginica&quot;
+data &lt;- subset(irisdataset, iris$Species == plant)   
+
+plot(data$Sepal.Length, data$Sepal.Width, main = &quot;A plot of the Sepal size&quot;, xlab = &quot;Sepal Length&quot;, ylab = &quot;Sepal Width&quot;,  xaxt=&quot;n&quot;)
+</code></pre>
+
+<p><img src="assets/fig/unnamed-chunk-2.png" alt="plot of chunk unnamed-chunk-2"> </p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-3" style="background:;">
+  <hgroup>
+    <h2>Plot 2</h2>
+  </hgroup>
+  <article data-timings="">
+    <h3>A plot of the Specie Versicolor</h3>
+
+<pre><code class="r">plant &lt;- &quot;versicolor&quot;
+data &lt;- subset(irisdataset, iris$Species == plant)   
+
+plot(data$Sepal.Length, data$Sepal.Width, main = &quot;A plot of the Sepal size&quot;, xlab = &quot;Sepal Length&quot;, ylab = &quot;Sepal Width&quot;,  xaxt=&quot;n&quot;)
+</code></pre>
+
+<p><img src="assets/fig/unnamed-chunk-3.png" alt="plot of chunk unnamed-chunk-3"> </p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-4" style="background:;">
+  <hgroup>
+    <h2>Plot 3</h2>
+  </hgroup>
+  <article data-timings="">
+    <h3>A plot of the Specie Setosa</h3>
+
+<pre><code class="r">plant &lt;- &quot;setosa&quot;
+data &lt;- subset(irisdataset, iris$Species == plant)   
+
+plot(data$Sepal.Length, data$Sepal.Width, main = &quot;A plot of the Sepal size&quot;, xlab = &quot;Sepal Length&quot;, ylab = &quot;Sepal Width&quot;,  xaxt=&quot;n&quot;)
+</code></pre>
+
+<p><img src="assets/fig/unnamed-chunk-4.png" alt="plot of chunk unnamed-chunk-4"> </p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+    <slide class="backdrop"></slide>
+  </slides>
+  <div class="pagination pagination-small" id='io2012-ptoc' style="display:none;">
+    <ul>
+      <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=1 title='Course Project: Shiny Application and Reproducible Pitch'>
+         1
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=2 title='Plot 1'>
+         2
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=3 title='Plot 2'>
+         3
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=4 title='Plot 3'>
+         4
+      </a>
+    </li>
+  </ul>
+  </div>  <!--[if IE]>
+    <script 
+      src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js">  
+    </script>
+    <script>CFInstall.check({mode: 'overlay'});</script>
+  <![endif]-->
+</body>
+  <!-- Load Javascripts for Widgets -->
+  
+  <!-- LOAD HIGHLIGHTER JS FILES -->
+  <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  <!-- DONE LOADING HIGHLIGHTER JS FILES -->
+   
+  </html>
