@@ -1,0 +1,475 @@
+Signal Activity Average
+tBodyAcc.mean...X WALKING Mean   :0.2763  
+tBodyAcc.mean...Y WALKING Mean   :-0.017907  
+tBodyAcc.mean...Z WALKING Mean   :-0.10888  
+tBodyAcc.std...X WALKING Mean   :-0.3146  
+tBodyAcc.std...Y WALKING Mean   :-0.02358  
+tBodyAcc.std...Z WALKING Mean   :-0.2739  
+tGravityAcc.mean...X WALKING Mean   :0.9350  
+tGravityAcc.mean...Y WALKING Mean   :-0.1967  
+tGravityAcc.mean...Z WALKING Mean   :-0.05383  
+tGravityAcc.std...X WALKING Mean   :-0.9776  
+tGravityAcc.std...Y WALKING Mean   :-0.9669  
+tGravityAcc.std...Z WALKING Mean   :-0.9546  
+tBodyAccJerk.mean...X WALKING Mean   : 0.07672  
+tBodyAccJerk.mean...Y WALKING Mean   : 0.01151  
+tBodyAccJerk.mean...Z WALKING Mean   :-0.002319  
+tBodyAccJerk.std...X WALKING Mean   :-0.2673  
+tBodyAccJerk.std...Y WALKING Mean   :-0.10314  
+tBodyAccJerk.std...Z WALKING Mean   :-0.4791  
+tBodyGyro.mean...X WALKING Mean   :-0.034728  
+tBodyGyro.mean...Y WALKING Mean   :-0.06942  
+tBodyGyro.mean...Z WALKING Mean   : 0.08636  
+tBodyGyro.std...X WALKING Mean   :-0.4699  
+tBodyGyro.std...Y WALKING Mean   :-0.3479  
+tBodyGyro.std...Z WALKING Mean   :-0.3384  
+tBodyGyroJerk.mean...X WALKING Mean   :-0.094301  
+tBodyGyroJerk.mean...Y WALKING Mean   :-0.04457  
+tBodyGyroJerk.mean...Z WALKING Mean   :-0.05401  
+tBodyGyroJerk.std...X WALKING Mean   :-0.3762  
+tBodyGyroJerk.std...Y WALKING Mean   :-0.5126  
+tBodyGyroJerk.std...Z WALKING Mean   :-0.4474  
+tBodyAccMag.mean.. WALKING Mean   :-0.1679  
+tBodyAccMag.std.. WALKING Mean   :-0.3378  
+tGravityAccMag.mean.. WALKING Mean   :-0.1679  
+tGravityAccMag.std.. WALKING Mean   :-0.3378  
+tBodyAccJerkMag.mean.. WALKING Mean   :-0.2415  
+tBodyAccJerkMag.std.. WALKING Mean   :-0.21456  
+tBodyGyroMag.mean.. WALKING Mean   :-0.2749  
+tBodyGyroMag.std.. WALKING Mean   :-0.3826  
+tBodyGyroJerkMag.mean.. WALKING Mean   :-0.4605  
+tBodyGyroJerkMag.std.. WALKING Mean   :-0.4988  
+fBodyAcc.mean...X WALKING Mean   :-0.2979  
+fBodyAcc.mean...Y WALKING Mean   :-0.04234  
+fBodyAcc.mean...Z WALKING Mean   :-0.3418  
+fBodyAcc.std...X WALKING Mean   :-0.3228  
+fBodyAcc.std...Y WALKING Mean   :-0.07721  
+fBodyAcc.std...Z WALKING Mean   :-0.2961  
+fBodyAcc.meanFreq...X WALKING Mean   :-0.2869  
+fBodyAcc.meanFreq...Y WALKING Mean   : 0.05186  
+fBodyAcc.meanFreq...Z WALKING Mean   : 0.07496  
+fBodyAccJerk.mean...X WALKING Mean   :-0.3111  
+fBodyAccJerk.mean...Y WALKING Mean   :-0.17040  
+fBodyAccJerk.mean...Z WALKING Mean   :-0.4510  
+fBodyAccJerk.std...X WALKING Mean   :-0.2879  
+fBodyAccJerk.std...Y WALKING Mean   :-0.09087  
+fBodyAccJerk.std...Z WALKING Mean   :-0.5063  
+fBodyAccJerk.meanFreq...X WALKING Mean   :-0.2584  
+fBodyAccJerk.meanFreq...Y WALKING Mean   :-0.3547  
+fBodyAccJerk.meanFreq...Z WALKING Mean   :-0.2407  
+fBodyGyro.mean...X WALKING Mean   :-0.3482  
+fBodyGyro.mean...Y WALKING Mean   :-0.3884  
+fBodyGyro.mean...Z WALKING Mean   :-0.3104  
+fBodyGyro.std...X WALKING Mean   :-0.5104  
+fBodyGyro.std...Y WALKING Mean   :-0.3320  
+fBodyGyro.std...Z WALKING Mean   :-0.4106  
+fBodyGyro.meanFreq...X WALKING Mean   :-0.06774  
+fBodyGyro.meanFreq...Y WALKING Mean   :-0.09845  
+fBodyGyro.meanFreq...Z WALKING Mean   :-0.07218  
+fBodyAccMag.mean.. WALKING Mean   :-0.2756  
+fBodyAccMag.std.. WALKING Mean   :-0.48000  
+fBodyAccMag.meanFreq.. WALKING Mean   : 0.18442  
+fBodyBodyAccJerkMag.mean.. WALKING Mean   :-0.2147  
+fBodyBodyAccJerkMag.std.. WALKING Mean   :-0.22162  
+fBodyBodyAccJerkMag.meanFreq.. WALKING Mean   : 0.07731  
+fBodyBodyGyroMag.mean.. WALKING Mean   :-0.4092  
+fBodyBodyGyroMag.std.. WALKING Mean   :-0.4738  
+fBodyBodyGyroMag.meanFreq.. WALKING Mean   : 0.16320  
+fBodyBodyGyroJerkMag.mean.. WALKING Mean   :-0.5155  
+fBodyBodyGyroJerkMag.std.. WALKING Mean   :-0.5144  
+fBodyBodyGyroJerkMag.meanFreq.. WALKING Mean   : 0.13081  
+tBodyAcc.mean...X WALKING_UPSTAIRS Mean   : 0.26229  
+tBodyAcc.mean...Y WALKING_UPSTAIRS Mean   :-0.025923  
+tBodyAcc.mean...Z WALKING_UPSTAIRS Mean   :-0.12054  
+tBodyAcc.std...X WALKING_UPSTAIRS Mean   :-0.2380  
+tBodyAcc.std...Y WALKING_UPSTAIRS Mean   :-0.01603  
+tBodyAcc.std...Z WALKING_UPSTAIRS Mean   :-0.17545  
+tGravityAcc.mean...X WALKING_UPSTAIRS Mean   :0.8750  
+tGravityAcc.mean...Y WALKING_UPSTAIRS Mean   :-0.2814  
+tGravityAcc.mean...Z WALKING_UPSTAIRS Mean   :-0.14080  
+tGravityAcc.std...X WALKING_UPSTAIRS Mean   :-0.9482  
+tGravityAcc.std...Y WALKING_UPSTAIRS Mean   :-0.9255  
+tGravityAcc.std...Z WALKING_UPSTAIRS Mean   :-0.9019  
+tBodyAccJerk.mean...X WALKING_UPSTAIRS Mean   : 0.07673  
+tBodyAccJerk.mean...Y WALKING_UPSTAIRS Mean   : 0.008759  
+tBodyAccJerk.mean...Z WALKING_UPSTAIRS Mean   :-0.0060095  
+tBodyAccJerk.std...X WALKING_UPSTAIRS Mean   :-0.3609  
+tBodyAccJerk.std...Y WALKING_UPSTAIRS Mean   :-0.3392  
+tBodyAccJerk.std...Z WALKING_UPSTAIRS Mean   :-0.62706  
+tBodyGyro.mean...X WALKING_UPSTAIRS Mean   : 0.006824  
+tBodyGyro.mean...Y WALKING_UPSTAIRS Mean   :-0.08852  
+tBodyGyro.mean...Z WALKING_UPSTAIRS Mean   : 0.05989  
+tBodyGyro.std...X WALKING_UPSTAIRS Mean   :-0.4676  
+tBodyGyro.std...Y WALKING_UPSTAIRS Mean   :-0.3442  
+tBodyGyro.std...Z WALKING_UPSTAIRS Mean   :-0.2371  
+tBodyGyroJerk.mean...X WALKING_UPSTAIRS Mean   :-0.112117  
+tBodyGyroJerk.mean...Y WALKING_UPSTAIRS Mean   :-0.03862  
+tBodyGyroJerk.mean...Z WALKING_UPSTAIRS Mean   :-0.05258  
+tBodyGyroJerk.std...X WALKING_UPSTAIRS Mean   :-0.5531  
+tBodyGyroJerk.std...Y WALKING_UPSTAIRS Mean   :-0.6673  
+tBodyGyroJerk.std...Z WALKING_UPSTAIRS Mean   :-0.5610  
+tBodyAccMag.mean.. WALKING_UPSTAIRS Mean   :-0.100204  
+tBodyAccMag.std.. WALKING_UPSTAIRS Mean   :-0.2499  
+tGravityAccMag.mean.. WALKING_UPSTAIRS Mean   :-0.100204  
+tGravityAccMag.std.. WALKING_UPSTAIRS Mean   :-0.2499  
+tBodyAccJerkMag.mean.. WALKING_UPSTAIRS Mean   :-0.3909  
+tBodyAccJerkMag.std.. WALKING_UPSTAIRS Mean   :-0.3854  
+tBodyGyroMag.mean.. WALKING_UPSTAIRS Mean   :-0.17828  
+tBodyGyroMag.std.. WALKING_UPSTAIRS Mean   :-0.3371  
+tBodyGyroJerkMag.mean.. WALKING_UPSTAIRS Mean   :-0.608047  
+tBodyGyroJerkMag.std.. WALKING_UPSTAIRS Mean   :-0.6668  
+fBodyAcc.mean...X WALKING_UPSTAIRS Mean   :-0.2934  
+fBodyAcc.mean...Y WALKING_UPSTAIRS Mean   :-0.134951  
+fBodyAcc.mean...Z WALKING_UPSTAIRS Mean   :-0.3681  
+fBodyAcc.std...X WALKING_UPSTAIRS Mean   :-0.2189  
+fBodyAcc.std...Y WALKING_UPSTAIRS Mean   :-0.02181  
+fBodyAcc.std...Z WALKING_UPSTAIRS Mean   :-0.14660  
+fBodyAcc.meanFreq...X WALKING_UPSTAIRS Mean   :-0.4367  
+fBodyAcc.meanFreq...Y WALKING_UPSTAIRS Mean   :-0.16985  
+fBodyAcc.meanFreq...Z WALKING_UPSTAIRS Mean   :-0.2652  
+fBodyAccJerk.mean...X WALKING_UPSTAIRS Mean   :-0.3899  
+fBodyAccJerk.mean...Y WALKING_UPSTAIRS Mean   :-0.3647  
+fBodyAccJerk.mean...Z WALKING_UPSTAIRS Mean   :-0.5917  
+fBodyAccJerk.std...X WALKING_UPSTAIRS Mean   :-0.3890  
+fBodyAccJerk.std...Y WALKING_UPSTAIRS Mean   :-0.3576  
+fBodyAccJerk.std...Z WALKING_UPSTAIRS Mean   :-0.66159  
+fBodyAccJerk.meanFreq...X WALKING_UPSTAIRS Mean   :-0.3391  
+fBodyAccJerk.meanFreq...Y WALKING_UPSTAIRS Mean   :-0.4525  
+fBodyAccJerk.meanFreq...Z WALKING_UPSTAIRS Mean   :-0.4412  
+fBodyGyro.mean...X WALKING_UPSTAIRS Mean   :-0.3942  
+fBodyGyro.mean...Y WALKING_UPSTAIRS Mean   :-0.4593  
+fBodyGyro.mean...Z WALKING_UPSTAIRS Mean   :-0.2969  
+fBodyGyro.std...X WALKING_UPSTAIRS Mean   :-0.4953  
+fBodyGyro.std...Y WALKING_UPSTAIRS Mean   :-0.2932  
+fBodyGyro.std...Z WALKING_UPSTAIRS Mean   :-0.2920  
+fBodyGyro.meanFreq...X WALKING_UPSTAIRS Mean   :-0.21284  
+fBodyGyro.meanFreq...Y WALKING_UPSTAIRS Mean   :-0.3195  
+fBodyGyro.meanFreq...Z WALKING_UPSTAIRS Mean   :-0.2603  
+fBodyAccMag.mean.. WALKING_UPSTAIRS Mean   :-0.2620  
+fBodyAccMag.std.. WALKING_UPSTAIRS Mean   :-0.36175  
+fBodyAccMag.meanFreq.. WALKING_UPSTAIRS Mean   :-0.05322  
+fBodyBodyAccJerkMag.mean.. WALKING_UPSTAIRS Mean   :-0.3540  
+fBodyBodyAccJerkMag.std.. WALKING_UPSTAIRS Mean   :-0.4342  
+fBodyBodyAccJerkMag.meanFreq.. WALKING_UPSTAIRS Mean   : 0.06287  
+fBodyBodyGyroMag.mean.. WALKING_UPSTAIRS Mean   :-0.4498  
+fBodyBodyGyroMag.std.. WALKING_UPSTAIRS Mean   :-0.3814  
+fBodyBodyGyroMag.meanFreq.. WALKING_UPSTAIRS Mean   :-0.16871  
+fBodyBodyGyroJerkMag.mean.. WALKING_UPSTAIRS Mean   :-0.6587  
+fBodyBodyGyroJerkMag.std.. WALKING_UPSTAIRS Mean   :-0.70308  
+fBodyBodyGyroJerkMag.meanFreq.. WALKING_UPSTAIRS Mean   : 0.09411  
+tBodyAcc.mean...X WALKING_DOWNSTAIRS Mean   : 0.2881  
+tBodyAcc.mean...Y WALKING_DOWNSTAIRS Mean   :-0.0163119  
+tBodyAcc.mean...Z WALKING_DOWNSTAIRS Mean   :-0.10576  
+tBodyAcc.std...X WALKING_DOWNSTAIRS Mean   : 0.1008  
+tBodyAcc.std...Y WALKING_DOWNSTAIRS Mean   : 0.05955  
+tBodyAcc.std...Z WALKING_DOWNSTAIRS Mean   :-0.19080  
+tGravityAcc.mean...X WALKING_DOWNSTAIRS Mean   :0.9265  
+tGravityAcc.mean...Y WALKING_DOWNSTAIRS Mean   :-0.16851  
+tGravityAcc.mean...Z WALKING_DOWNSTAIRS Mean   :-0.04797  
+tGravityAcc.std...X WALKING_DOWNSTAIRS Mean   :-0.9497  
+tGravityAcc.std...Y WALKING_DOWNSTAIRS Mean   :-0.9343  
+tGravityAcc.std...Z WALKING_DOWNSTAIRS Mean   :-0.9125  
+tBodyAccJerk.mean...X WALKING_DOWNSTAIRS Mean   : 0.08923  
+tBodyAccJerk.mean...Y WALKING_DOWNSTAIRS Mean   : 0.0007467  
+tBodyAccJerk.mean...Z WALKING_DOWNSTAIRS Mean   :-0.008729  
+tBodyAccJerk.std...X WALKING_DOWNSTAIRS Mean   :-0.03388  
+tBodyAccJerk.std...Y WALKING_DOWNSTAIRS Mean   :-0.07367  
+tBodyAccJerk.std...Z WALKING_DOWNSTAIRS Mean   :-0.3887  
+tBodyGyro.mean...X WALKING_DOWNSTAIRS Mean   :-0.08403  
+tBodyGyro.mean...Y WALKING_DOWNSTAIRS Mean   :-0.05299  
+tBodyGyro.mean...Z WALKING_DOWNSTAIRS Mean   : 0.09468  
+tBodyGyro.std...X WALKING_DOWNSTAIRS Mean   :-0.3338  
+tBodyGyro.std...Y WALKING_DOWNSTAIRS Mean   :-0.3396  
+tBodyGyro.std...Z WALKING_DOWNSTAIRS Mean   :-0.2728  
+tBodyGyroJerk.mean...X WALKING_DOWNSTAIRS Mean   :-0.07285  
+tBodyGyroJerk.mean...Y WALKING_DOWNSTAIRS Mean   :-0.05126  
+tBodyGyroJerk.mean...Z WALKING_DOWNSTAIRS Mean   :-0.05470  
+tBodyGyroJerk.std...X WALKING_DOWNSTAIRS Mean   :-0.3827  
+tBodyGyroJerk.std...Y WALKING_DOWNSTAIRS Mean   :-0.4659  
+tBodyGyroJerk.std...Z WALKING_DOWNSTAIRS Mean   :-0.3265  
+tBodyAccMag.mean.. WALKING_DOWNSTAIRS Mean   : 0.10125  
+tBodyAccMag.std.. WALKING_DOWNSTAIRS Mean   : 0.116489  
+tGravityAccMag.mean.. WALKING_DOWNSTAIRS Mean   : 0.10125  
+tGravityAccMag.std.. WALKING_DOWNSTAIRS Mean   : 0.116489  
+tBodyAccJerkMag.mean.. WALKING_DOWNSTAIRS Mean   :-0.111802  
+tBodyAccJerkMag.std.. WALKING_DOWNSTAIRS Mean   :-0.01122  
+tBodyGyroMag.mean.. WALKING_DOWNSTAIRS Mean   :-0.12979  
+tBodyGyroMag.std.. WALKING_DOWNSTAIRS Mean   :-0.2514  
+tBodyGyroJerkMag.mean.. WALKING_DOWNSTAIRS Mean   :-0.4169  
+tBodyGyroJerkMag.std.. WALKING_DOWNSTAIRS Mean   :-0.4409  
+fBodyAcc.mean...X WALKING_DOWNSTAIRS Mean   : 0.03526  
+fBodyAcc.mean...Y WALKING_DOWNSTAIRS Mean   : 0.05668  
+fBodyAcc.mean...Z WALKING_DOWNSTAIRS Mean   :-0.21373  
+fBodyAcc.std...X WALKING_DOWNSTAIRS Mean   : 0.12194  
+fBodyAcc.std...Y WALKING_DOWNSTAIRS Mean   :-0.008234  
+fBodyAcc.std...Z WALKING_DOWNSTAIRS Mean   :-0.2459  
+fBodyAcc.meanFreq...X WALKING_DOWNSTAIRS Mean   :-0.4000  
+fBodyAcc.meanFreq...Y WALKING_DOWNSTAIRS Mean   : 0.0006031  
+fBodyAcc.meanFreq...Z WALKING_DOWNSTAIRS Mean   : 0.09243  
+fBodyAccJerk.mean...X WALKING_DOWNSTAIRS Mean   :-0.07230  
+fBodyAccJerk.mean...Y WALKING_DOWNSTAIRS Mean   :-0.11638  
+fBodyAccJerk.mean...Z WALKING_DOWNSTAIRS Mean   :-0.3332  
+fBodyAccJerk.std...X WALKING_DOWNSTAIRS Mean   :-0.08219  
+fBodyAccJerk.std...Y WALKING_DOWNSTAIRS Mean   :-0.09142  
+fBodyAccJerk.std...Z WALKING_DOWNSTAIRS Mean   :-0.4436  
+fBodyAccJerk.meanFreq...X WALKING_DOWNSTAIRS Mean   :-0.3149  
+fBodyAccJerk.meanFreq...Y WALKING_DOWNSTAIRS Mean   :-0.3860  
+fBodyAccJerk.meanFreq...Z WALKING_DOWNSTAIRS Mean   :-0.2374  
+fBodyGyro.mean...X WALKING_DOWNSTAIRS Mean   :-0.21792  
+fBodyGyro.mean...Y WALKING_DOWNSTAIRS Mean   :-0.3176  
+fBodyGyro.mean...Z WALKING_DOWNSTAIRS Mean   :-0.16563  
+fBodyGyro.std...X WALKING_DOWNSTAIRS Mean   :-0.3751  
+fBodyGyro.std...Y WALKING_DOWNSTAIRS Mean   :-0.3619  
+fBodyGyro.std...Z WALKING_DOWNSTAIRS Mean   :-0.3804  
+fBodyGyro.meanFreq...X WALKING_DOWNSTAIRS Mean   :-0.17002  
+fBodyGyro.meanFreq...Y WALKING_DOWNSTAIRS Mean   :-0.04409  
+fBodyGyro.meanFreq...Z WALKING_DOWNSTAIRS Mean   :-0.01879  
+fBodyAccMag.mean.. WALKING_DOWNSTAIRS Mean   : 0.142849  
+fBodyAccMag.std.. WALKING_DOWNSTAIRS Mean   :-0.07543  
+fBodyAccMag.meanFreq.. WALKING_DOWNSTAIRS Mean   : 0.02504  
+fBodyBodyAccJerkMag.mean.. WALKING_DOWNSTAIRS Mean   : 0.004763  
+fBodyBodyAccJerkMag.std.. WALKING_DOWNSTAIRS Mean   :-0.04227  
+fBodyBodyAccJerkMag.meanFreq.. WALKING_DOWNSTAIRS Mean   : 0.02007  
+fBodyBodyGyroMag.mean.. WALKING_DOWNSTAIRS Mean   :-0.2895  
+fBodyBodyGyroMag.std.. WALKING_DOWNSTAIRS Mean   :-0.3612  
+fBodyBodyGyroMag.meanFreq.. WALKING_DOWNSTAIRS Mean   : 0.06717  
+fBodyBodyGyroJerkMag.mean.. WALKING_DOWNSTAIRS Mean   :-0.4380  
+fBodyBodyGyroJerkMag.std.. WALKING_DOWNSTAIRS Mean   :-0.4864  
+fBodyBodyGyroJerkMag.meanFreq.. WALKING_DOWNSTAIRS Mean   : 0.09576  
+tBodyAcc.mean...X SITTING Mean   : 0.2731  
+tBodyAcc.mean...Y SITTING Mean   :-0.01269  
+tBodyAcc.mean...Z SITTING Mean   :-0.1055  
+tBodyAcc.std...X SITTING Mean   :-0.9834  
+tBodyAcc.std...Y SITTING Mean   :-0.9349  
+tBodyAcc.std...Z SITTING Mean   :-0.9390  
+tGravityAcc.mean...X SITTING Mean   :0.8797  
+tGravityAcc.mean...Y SITTING Mean   : 0.10871  
+tGravityAcc.mean...Z SITTING Mean   : 0.153774  
+tGravityAcc.std...X SITTING Mean   :-0.9797  
+tGravityAcc.std...Y SITTING Mean   :-0.9577  
+tGravityAcc.std...Z SITTING Mean   :-0.9474  
+tBodyAccJerk.mean...X SITTING Mean   : 0.07588  
+tBodyAccJerk.mean...Y SITTING Mean   : 0.005047  
+tBodyAccJerk.mean...Z SITTING Mean   :-0.0024867  
+tBodyAccJerk.std...X SITTING Mean   :-0.9850  
+tBodyAccJerk.std...Y SITTING Mean   :-0.9739  
+tBodyAccJerk.std...Z SITTING Mean   :-0.9823  
+tBodyGyro.mean...X SITTING Mean   :-0.03843  
+tBodyGyro.mean...Y SITTING Mean   :-0.07212  
+tBodyGyro.mean...Z SITTING Mean   : 0.07778  
+tBodyGyro.std...X SITTING Mean   :-0.9810  
+tBodyGyro.std...Y SITTING Mean   :-0.9667  
+tBodyGyro.std...Z SITTING Mean   :-0.9580  
+tBodyGyroJerk.mean...X SITTING Mean   :-0.09565  
+tBodyGyroJerk.mean...Y SITTING Mean   :-0.04078  
+tBodyGyroJerk.mean...Z SITTING Mean   :-0.05076  
+tBodyGyroJerk.std...X SITTING Mean   :-0.9857  
+tBodyGyroJerk.std...Y SITTING Mean   :-0.9865  
+tBodyGyroJerk.std...Z SITTING Mean   :-0.9838  
+tBodyAccMag.mean.. SITTING Mean   :-0.9546  
+tBodyAccMag.std.. SITTING Mean   :-0.9393  
+tGravityAccMag.mean.. SITTING Mean   :-0.9546  
+tGravityAccMag.std.. SITTING Mean   :-0.9393  
+tBodyAccJerkMag.mean.. SITTING Mean   :-0.9824  
+tBodyAccJerkMag.std.. SITTING Mean   :-0.9789  
+tBodyGyroMag.mean.. SITTING Mean   :-0.9467  
+tBodyGyroMag.std.. SITTING Mean   :-0.95120  
+tBodyGyroJerkMag.mean.. SITTING Mean   :-0.9879  
+tBodyGyroJerkMag.std.. SITTING Mean   :-0.9846  
+fBodyAcc.mean...X SITTING Mean   :-0.9831  
+fBodyAcc.mean...Y SITTING Mean   :-0.94792  
+fBodyAcc.mean...Z SITTING Mean   :-0.95703  
+fBodyAcc.std...X SITTING Mean   :-0.9837  
+fBodyAcc.std...Y SITTING Mean   :-0.9325  
+fBodyAcc.std...Z SITTING Mean   :-0.9343  
+fBodyAcc.meanFreq...X SITTING Mean   :-0.04264  
+fBodyAcc.meanFreq...Y SITTING Mean   : 0.06530  
+fBodyAcc.meanFreq...Z SITTING Mean   : 0.0803  
+fBodyAccJerk.mean...X SITTING Mean   :-0.9852  
+fBodyAccJerk.mean...Y SITTING Mean   :-0.9740  
+fBodyAccJerk.mean...Z SITTING Mean   :-0.9796  
+fBodyAccJerk.std...X SITTING Mean   :-0.9862  
+fBodyAccJerk.std...Y SITTING Mean   :-0.9758  
+fBodyAccJerk.std...Z SITTING Mean   :-0.9837  
+fBodyAccJerk.meanFreq...X SITTING Mean   : 0.18501  
+fBodyAccJerk.meanFreq...Y SITTING Mean   :-0.05831  
+fBodyAccJerk.meanFreq...Z SITTING Mean   : 0.002996  
+fBodyGyro.mean...X SITTING Mean   :-0.9773  
+fBodyGyro.mean...Y SITTING Mean   :-0.9725  
+fBodyGyro.mean...Z SITTING Mean   :-0.9610  
+fBodyGyro.std...X SITTING Mean   :-0.9823  
+fBodyGyro.std...Y SITTING Mean   :-0.9640  
+fBodyGyro.std...Z SITTING Mean   :-0.9610  
+fBodyGyro.meanFreq...X SITTING Mean   : 0.06259  
+fBodyGyro.meanFreq...Y SITTING Mean   :-0.21803  
+fBodyGyro.meanFreq...Z SITTING Mean   :-0.01270  
+fBodyAccMag.mean.. SITTING Mean   :-0.95241  
+fBodyAccMag.std.. SITTING Mean   :-0.9420  
+fBodyAccMag.meanFreq.. SITTING Mean   : 0.1141  
+fBodyBodyAccJerkMag.mean.. SITTING Mean   :-0.9787  
+fBodyBodyAccJerkMag.std.. SITTING Mean   :-0.9782  
+fBodyBodyAccJerkMag.meanFreq.. SITTING Mean   : 0.2815  
+fBodyBodyGyroMag.mean.. SITTING Mean   :-0.9643  
+fBodyBodyGyroMag.std.. SITTING Mean   :-0.95164  
+fBodyBodyGyroMag.meanFreq.. SITTING Mean   :-0.07644  
+fBodyBodyGyroJerkMag.mean.. SITTING Mean   :-0.9853  
+fBodyBodyGyroJerkMag.std.. SITTING Mean   :-0.9845  
+fBodyBodyGyroJerkMag.meanFreq.. SITTING Mean   : 0.1777386  
+tBodyAcc.mean...X STANDING Mean   :0.2792  
+tBodyAcc.mean...Y STANDING Mean   :-0.01615  
+tBodyAcc.mean...Z STANDING Mean   :-0.1066  
+tBodyAcc.std...X STANDING Mean   :-0.9844  
+tBodyAcc.std...Y STANDING Mean   :-0.9325  
+tBodyAcc.std...Z STANDING Mean   :-0.9399  
+tGravityAcc.mean...X STANDING Mean   :0.9415  
+tGravityAcc.mean...Y STANDING Mean   :-0.1842  
+tGravityAcc.mean...Z STANDING Mean   :-0.01405  
+tGravityAcc.std...X STANDING Mean   :-0.9880  
+tGravityAcc.std...Y STANDING Mean   :-0.9694  
+tGravityAcc.std...Z STANDING Mean   :-0.9531  
+tBodyAccJerk.mean...X STANDING Mean   : 0.07503  
+tBodyAccJerk.mean...Y STANDING Mean   : 0.008805  
+tBodyAccJerk.mean...Z STANDING Mean   :-0.0045821  
+tBodyAccJerk.std...X STANDING Mean   :-0.9800  
+tBodyAccJerk.std...Y STANDING Mean   :-0.9643  
+tBodyAccJerk.std...Z STANDING Mean   :-0.9795  
+tBodyGyro.mean...X STANDING Mean   :-0.02669  
+tBodyGyro.mean...Y STANDING Mean   :-0.06771  
+tBodyGyro.mean...Z STANDING Mean   : 0.08014  
+tBodyGyro.std...X STANDING Mean   :-0.9455  
+tBodyGyro.std...Y STANDING Mean   :-0.9613  
+tBodyGyro.std...Z STANDING Mean   :-0.9571  
+tBodyGyroJerk.mean...X STANDING Mean   :-0.09973  
+tBodyGyroJerk.mean...Y STANDING Mean   :-0.04232  
+tBodyGyroJerk.mean...Z STANDING Mean   :-0.05210  
+tBodyGyroJerk.std...X STANDING Mean   :-0.9670  
+tBodyGyroJerk.std...Y STANDING Mean   :-0.9803  
+tBodyGyroJerk.std...Z STANDING Mean   :-0.9771  
+tBodyAccMag.mean.. STANDING Mean   :-0.9542  
+tBodyAccMag.std.. STANDING Mean   :-0.94653  
+tGravityAccMag.mean.. STANDING Mean   :-0.9542  
+tGravityAccMag.std.. STANDING Mean   :-0.94653  
+tBodyAccJerkMag.mean.. STANDING Mean   :-0.9771  
+tBodyAccJerkMag.std.. STANDING Mean   :-0.9715  
+tBodyGyroMag.mean.. STANDING Mean   :-0.9422  
+tBodyGyroMag.std.. STANDING Mean   :-0.9295  
+tBodyGyroJerkMag.mean.. STANDING Mean   :-0.9787  
+tBodyGyroJerkMag.std.. STANDING Mean   :-0.9735  
+fBodyAcc.mean...X STANDING Mean   :-0.9816  
+fBodyAcc.mean...Y STANDING Mean   :-0.9431  
+fBodyAcc.mean...Z STANDING Mean   :-0.9574  
+fBodyAcc.std...X STANDING Mean   :-0.9859  
+fBodyAcc.std...Y STANDING Mean   :-0.93113  
+fBodyAcc.std...Z STANDING Mean   :-0.9354  
+fBodyAcc.meanFreq...X STANDING Mean   : 0.01560  
+fBodyAcc.meanFreq...Y STANDING Mean   :-0.03327  
+fBodyAcc.meanFreq...Z STANDING Mean   : 0.05247  
+fBodyAccJerk.mean...X STANDING Mean   :-0.9800  
+fBodyAccJerk.mean...Y STANDING Mean   :-0.9645  
+fBodyAccJerk.mean...Z STANDING Mean   :-0.9762  
+fBodyAccJerk.std...X STANDING Mean   :-0.9818  
+fBodyAccJerk.std...Y STANDING Mean   :-0.9668  
+fBodyAccJerk.std...Z STANDING Mean   :-0.9815  
+fBodyAccJerk.meanFreq...X STANDING Mean   : 0.2029  
+fBodyAccJerk.meanFreq...Y STANDING Mean   :-0.13189  
+fBodyAccJerk.meanFreq...Z STANDING Mean   : 0.00670  
+fBodyGyro.mean...X STANDING Mean   :-0.9437  
+fBodyGyro.mean...Y STANDING Mean   :-0.9653  
+fBodyGyro.mean...Z STANDING Mean   :-0.9584  
+fBodyGyro.std...X STANDING Mean   :-0.9470  
+fBodyGyro.std...Y STANDING Mean   :-0.9595  
+fBodyGyro.std...Z STANDING Mean   :-0.9607  
+fBodyGyro.meanFreq...X STANDING Mean   :-0.2275  
+fBodyGyro.meanFreq...Y STANDING Mean   :-0.21601  
+fBodyGyro.meanFreq...Z STANDING Mean   :-0.09143  
+fBodyAccMag.mean.. STANDING Mean   :-0.9559  
+fBodyAccMag.std.. STANDING Mean   :-0.949602  
+fBodyAccMag.meanFreq.. STANDING Mean   : 0.04849  
+fBodyBodyAccJerkMag.mean.. STANDING Mean   :-0.9711  
+fBodyBodyAccJerkMag.std.. STANDING Mean   :-0.9709  
+fBodyBodyAccJerkMag.meanFreq.. STANDING Mean   : 0.25127  
+fBodyBodyGyroMag.mean.. STANDING Mean   :-0.9479  
+fBodyBodyGyroMag.std.. STANDING Mean   :-0.9306  
+fBodyBodyGyroMag.meanFreq.. STANDING Mean   :-0.183705  
+fBodyBodyGyroJerkMag.mean.. STANDING Mean   :-0.9749  
+fBodyBodyGyroJerkMag.std.. STANDING Mean   :-0.9735  
+fBodyBodyGyroJerkMag.meanFreq.. STANDING Mean   : 0.08486  
+tBodyAcc.mean...X LAYING Mean   : 0.2686  
+tBodyAcc.mean...Y LAYING Mean   :-0.01832  
+tBodyAcc.mean...Z LAYING Mean   :-0.1074  
+tBodyAcc.std...X LAYING Mean   :-0.96093  
+tBodyAcc.std...Y LAYING Mean   :-0.9435  
+tBodyAcc.std...Z LAYING Mean   :-0.9481  
+tGravityAcc.mean...X LAYING Mean   :-0.3750  
+tGravityAcc.mean...Y LAYING Mean   : 0.6223  
+tGravityAcc.mean...Z LAYING Mean   : 0.5556  
+tGravityAcc.std...X LAYING Mean   :-0.9433  
+tGravityAcc.std...Y LAYING Mean   :-0.9632  
+tGravityAcc.std...Z LAYING Mean   :-0.9519  
+tBodyAccJerk.mean...X LAYING Mean   : 0.08185  
+tBodyAccJerk.mean...Y LAYING Mean   : 0.011172  
+tBodyAccJerk.mean...Z LAYING Mean   :-0.004860  
+tBodyAccJerk.std...X LAYING Mean   :-0.9804  
+tBodyAccJerk.std...Y LAYING Mean   :-0.9711  
+tBodyAccJerk.std...Z LAYING Mean   :-0.9795  
+tBodyGyro.mean...X LAYING Mean   :-0.01673  
+tBodyGyro.mean...Y LAYING Mean   :-0.09341  
+tBodyGyro.mean...Z LAYING Mean   : 0.12589  
+tBodyGyro.std...X LAYING Mean   :-0.96789  
+tBodyGyro.std...Y LAYING Mean   :-0.9632  
+tBodyGyro.std...Z LAYING Mean   :-0.9635  
+tBodyGyroJerk.mean...X LAYING Mean   :-0.10186  
+tBodyGyroJerk.mean...Y LAYING Mean   :-0.03820  
+tBodyGyroJerk.mean...Z LAYING Mean   :-0.06385  
+tBodyGyroJerk.std...X LAYING Mean   :-0.9761  
+tBodyGyroJerk.std...Y LAYING Mean   :-0.9805  
+tBodyGyroJerk.std...Z LAYING Mean   :-0.9848  
+tBodyAccMag.mean.. LAYING Mean   :-0.9411  
+tBodyAccMag.std.. LAYING Mean   :-0.9322  
+tGravityAccMag.mean.. LAYING Mean   :-0.9411  
+tGravityAccMag.std.. LAYING Mean   :-0.9322  
+tBodyAccJerkMag.mean.. LAYING Mean   :-0.9792  
+tBodyAccJerkMag.std.. LAYING Mean   :-0.9742  
+tBodyGyroMag.mean.. LAYING Mean   :-0.9384  
+tBodyGyroMag.std.. LAYING Mean   :-0.9406  
+tBodyGyroJerkMag.mean.. LAYING Mean   :-0.9827  
+tBodyGyroJerkMag.std.. LAYING Mean   :-0.9768  
+fBodyAcc.mean...X LAYING Mean   :-0.9668  
+fBodyAcc.mean...Y LAYING Mean   :-0.9527  
+fBodyAcc.mean...Z LAYING Mean   :-0.96002  
+fBodyAcc.std...X LAYING Mean   :-0.95903  
+fBodyAcc.std...Y LAYING Mean   :-0.9425  
+fBodyAcc.std...Z LAYING Mean   :-0.9456  
+fBodyAcc.meanFreq...X LAYING Mean   :-0.25938  
+fBodyAcc.meanFreq...Y LAYING Mean   : 0.14305  
+fBodyAcc.meanFreq...Z LAYING Mean   : 0.20319  
+fBodyAccJerk.mean...X LAYING Mean   :-0.9802  
+fBodyAccJerk.mean...Y LAYING Mean   :-0.9714  
+fBodyAccJerk.mean...Z LAYING Mean   :-0.9766  
+fBodyAccJerk.std...X LAYING Mean   :-0.9825  
+fBodyAccJerk.std...Y LAYING Mean   :-0.9731  
+fBodyAccJerk.std...Z LAYING Mean   :-0.9810  
+fBodyAccJerk.meanFreq...X LAYING Mean   : 0.10518  
+fBodyAccJerk.meanFreq...Y LAYING Mean   : 0.004854  
+fBodyAccJerk.meanFreq...Z LAYING Mean   : 0.06996  
+fBodyGyro.mean...X LAYING Mean   :-0.9629  
+fBodyGyro.mean...Y LAYING Mean   :-0.9676  
+fBodyGyro.mean...Z LAYING Mean   :-0.9642  
+fBodyGyro.std...X LAYING Mean   :-0.9697  
+fBodyGyro.std...Y LAYING Mean   :-0.9614  
+fBodyGyro.std...Z LAYING Mean   :-0.9667  
+fBodyGyro.meanFreq...X LAYING Mean   :-0.01746  
+fBodyGyro.meanFreq...Y LAYING Mean   :-0.13934  
+fBodyGyro.meanFreq...Z LAYING Mean   : 0.1133  
+fBodyAccMag.mean.. LAYING Mean   :-0.9477  
+fBodyAccMag.std.. LAYING Mean   :-0.9349  
+fBodyAccMag.meanFreq.. LAYING Mean   : 0.1162  
+fBodyBodyAccJerkMag.mean.. LAYING Mean   :-0.9743  
+fBodyBodyAccJerkMag.std.. LAYING Mean   :-0.9732  
+fBodyBodyAccJerkMag.meanFreq.. LAYING Mean   : 0.2811  
+fBodyBodyGyroMag.mean.. LAYING Mean   :-0.9549  
+fBodyBodyGyroMag.std.. LAYING Mean   :-0.9421  
+fBodyBodyGyroMag.meanFreq.. LAYING Mean   :-0.02937  
+fBodyBodyGyroJerkMag.mean.. LAYING Mean   :-0.9780  
+fBodyBodyGyroJerkMag.std.. LAYING Mean   :-0.9766  
+fBodyBodyGyroJerkMag.meanFreq.. LAYING Mean   : 0.165728  
