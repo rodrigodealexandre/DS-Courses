@@ -1,5 +1,6 @@
 PredictionAssignmentWriteup
 =============
+To see the index.html or report.html for this report please click on this [link](http://rodrigodealexandre.github.io/DS-Courses/Practical%20Machine%20Learning/data/).
 
 Background
 
