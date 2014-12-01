@@ -1,0 +1,59 @@
+Practical Machine Learning Assignment
+========================================================
+
+The data consists of a set of readings from sensors attached to subjects performing a variety of exercises. The task is to build a model which will correctly classify activities, given unlabelled sets of readings.
+
+Load the [Caret](http://caret.r-forge.r-project.org/) library and set the random number generator's seed, to ensure reproducibility:
+
+```{r setup, message=FALSE}
+library(caret)
+set.seed(1234)
+```
+
+## Reading and Cleaning the Data
+```{r}
+rawData <- read.csv("pml-training.csv", na.strings=c("NA",""), strip.white=T)
+dim(rawData)
+na <- apply(rawData, 2, function(x) { sum(is.na(x)) })
+cleandata <- subset(rawData[, which(na == 0)], select=-c(X, user_name, new_window, num_window, raw_timestamp_part_1, raw_timestamp_part_2, cvtd_timestamp))
+dim(cleandata)
+
+```
+
+### Partition
+Partitioning the data into training and test 
+
+```{r}
+inTrain <- createDataPartition(cleandata$classe, p=0.7, list=F)
+training <- cleandata[inTrain,]
+testing <- cleandata[-inTrain,]
+```
+
+## Training a Random Forest Model
+
+Now use the train model on the training set.
+
+```{r, cache=TRUE, message=FALSE}
+ctrl <- trainControl(allowParallel=T, method="cv", number=4)
+rawdata2 <- read.csv("pml-testing.csv", na.strings=c("NA",""), strip.white=T)
+testdata <- subset(rawdata2[, which(na == 0)], 
+                        select=-c(X, user_name, new_window, num_window, raw_timestamp_part_1, raw_timestamp_part_2, cvtd_timestamp))
+
+validdata <- subset(cleandata, select=c(roll_belt, pitch_forearm, yaw_belt, magnet_dumbbell_y, pitch_belt, magnet_dumbbell_z, roll_forearm, accel_dumbbell_y, roll_dumbbell, magnet_dumbbell_x,classe))
+model <- train(classe ~ ., data=validdata[inTrain,], model="rf", trControl=ctrl)
+
+
+
+```
+
+## Predictions
+```{r}
+predict(model, newdata=testdata)
+pred <- predict(model, newdata=testing)
+sum(pred == testing$classe) / length(pred)
+confusionMatrix(testing$classe, pred)$table
+```
+
+
+I use this method because it is fast and its accuracy on the test set is 98.5%.
+
