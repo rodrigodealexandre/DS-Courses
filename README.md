@@ -4,6 +4,8 @@ DS-Courses
 ###DS Specialization Courses  
 This repository has my codes and answers for the DS specialization.  
 
+The link for my github pages: http://rodrigodealexandre.github.io/DS-Courses/
+The link to my github files: https://github.com/rodrigodealexandre/DS-Courses
 
 ----------------------------------------------------
 
