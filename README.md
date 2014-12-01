@@ -4,6 +4,9 @@ DS-Courses
 ###DS Specialization Courses  
 This repository has my codes and answers for the DS specialization.  
 
+
+----------------------------------------------------
+
 ### The Capstone project.
 
 In this project, we receive a text data set from English origin and we are supposed to create an APP capable of predicting the next possible word. The functionality of the app should be like the [SwiftKey]( http://swiftkey.com/en/) app. The APP is in R and converted to Shiny.  
@@ -17,7 +20,7 @@ My final report can be downloaded from [here](https://github.com/rodrigodealexan
 
 ### Practical Machine Learning
 
-For this course we were supposed to work with two sets of data, the training and th test. The final report was called PredictionAssignmentWriteup.
+For this course, we were supposed to work with two sets of data, the training and th test. The final report was called PredictionAssignmentWriteup.
 To see the index.html or report.html for this report please click on this [link](http://rodrigodealexandre.github.io/DS-Courses/Practical%20Machine%20Learning/data/).
 
 
@@ -30,5 +33,33 @@ Furthermore, for this course we also made slides to explain how this app works. 
 
 ----------------------------------------------------
 
+### Reproducible Research 
 
+The assignment 1 can be seen at this [link](http://rodrigodealexandre.github.io/DS-Courses/Reproducible%20Research/data/PA1/PA1_template.html)
+This course assignment 2 can be seen at this [link](http://rodrigodealexandre.github.io/DS-Courses/Reproducible%20Research/data/PA2/Peer%20Assessment%202.html) or at [RPubs](https://rpubs.com/rodrigodealexandre/17811).
+
+----------------------------------------------------
+
+### Regression Models 
+
+Work for the course Regression Models can be found in this [link](http://rodrigodealexandre.github.io/DS-Courses/Regression%20Models/Data/Course%20Project.html).
+
+----------------------------------------------------
+
+### R programing
+
+This course was my first contact with R. Here I've learn the basic principles of R programing
+
+----------------------------------------------------
+
+### Getting and Cleaning Data
+
+This lecture was attend at the same time as R programing. At the same time we learned the basics of programming, we also learned how to obtain and clean data using R.
+
+----------------------------------------------------
+
+### Exploratory Data Analysis
+
+The aim of this course was to learn how to plot with R with multiple graphical devices.
+See [assignment 1](https://github.com/rodrigodealexandre/DS-Courses/tree/master/Exploratory%20Data%20Analysis/Data/Assignment%201) and [assignment 2](https://github.com/rodrigodealexandre/DS-Courses/tree/master/Exploratory%20Data%20Analysis/Data/Assignment%202) graphs.
 
